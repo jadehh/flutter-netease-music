@@ -17,17 +17,17 @@ dependencies:
   json_annotation: ^4.3.0
   path_provider: ^2.1.1
   url_launcher: ^6.1.14
-  intl: ^0.18.0
+  intl: ^0.19.0
   scoped_model: ^2.0.0
   loader:
     git:
-      url: https://github.com/boyan01/loader.git
-      ref: e1ef2d9957bc8615c7f19f989d4fcfc142e20e93
+      url: https://github.com/jadehh/loader.git
+      ref: b7f550b0e48fb2529e0672594acede5b8ada0cad
   encrypt: ^5.0.3
   overlay_support: ^2.1.0
   music_player:
     git:
-      url: https://github.com/boyan01/flutter-music-player.git
+      url: https://github.com/jadehh/flutter_music_player.git
       ref: f7a97ae6b892c133c63a10e5f8879a611520d3c7
   scrollable_positioned_list: ^0.3.5
   flutter_hooks: ^0.20.3
@@ -52,7 +52,10 @@ dependencies:
       path: packages/desktop_drop
   dotted_border: ^2.1.0
   meta: ^1.10.0
-  lychee_player: ^0.4.0
+  lychee_player:
+    git:
+      url: https://github.com/jadehh/lychee_player.git
+      ref: 4c67b865ccaff4ad93c5611db066b7a19617de63
   fluentui_system_icons: ^1.1.223
   mixin_logger: ^0.1.0
   synchronized: ^3.1.0
