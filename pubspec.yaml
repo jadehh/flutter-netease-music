@@ -56,7 +56,7 @@ dependencies:
     git:
       url: https://github.com/jadehh/lychee_player.git
       ref: 4c67b865ccaff4ad93c5611db066b7a19617de63
-  fluentui_system_icons: ^1.1.223
+  fluentui_system_icons: ^1.1.270
   mixin_logger: ^0.1.0
   synchronized: ^3.1.0
   ui_device:
